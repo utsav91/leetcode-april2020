@@ -4,3 +4,4 @@
 \# | Title | Difficulty|
 ----|------|-----------|
 1  |Single Number|Easy|
+2  |Happy Number|Easy|
