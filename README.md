@@ -5,3 +5,4 @@
 ----|------|-----------|
 1  |Single Number|Easy|
 2  |Happy Number|Easy|
+2  |Maximum Subarray|Medium|
